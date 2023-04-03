@@ -6,7 +6,9 @@ holds a lightweight pretrained nlp sentiment model
 api samples tweets about a figure, returns average sentiment rating, most positive and most negative tweets
 
 resources:
--https://huggingface.co/blog/sentiment-analysis-python
+sentiment analysis tutorial: https://realpython.com/python-nltk-sentiment-analysis/#getting-started-with-nltk
+data science project structure: https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800
+flask api tut: https://www.imaginarycloud.com/blog/flask-python/ 
 
 nlp
 -celbrities stored in a databse
