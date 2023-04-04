@@ -7,6 +7,7 @@ api samples tweets about a figure, returns average sentiment rating, most positi
 
 resources:
 sentiment analysis tutorial: https://realpython.com/python-nltk-sentiment-analysis/#getting-started-with-nltk
+https://huggingface.co/blog/sentiment-analysis-python#2-how-to-use-pre-trained-sentiment-analysis-models-with-python
 data science project structure: https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800
 flask api tut: https://www.imaginarycloud.com/blog/flask-python/ 
 
